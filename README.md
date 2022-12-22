@@ -1,5 +1,5 @@
 Problems Completed 
 
-Easy    10
+Easy    11
 Medium  0
 Hard    0
