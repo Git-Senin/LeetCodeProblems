@@ -1,6 +1,6 @@
 ## Problems Completed 
 
-🟩 `Easy    12`
+🟩 `Easy    13`
 
 🟧 `Medium   0`
 
