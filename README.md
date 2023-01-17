@@ -1,7 +1,7 @@
 ## Problems Completed 
 
-🟩 `Easy    13`
+🟩 `Easy    14`
 
-🟧 `Medium   0`
+🟧 `Medium   1`
 
 🟥 `Hard     0`
