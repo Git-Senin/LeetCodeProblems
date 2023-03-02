@@ -2,6 +2,6 @@
 
 🟩 `Easy    15`
 
-🟧 `Medium   2`
+🟧 `Medium   3`
 
 🟥 `Hard     0`
